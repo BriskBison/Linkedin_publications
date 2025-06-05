@@ -1,0 +1,110 @@
+Investment Evaluation & Project Valuation
+NPV
+= Net Present Value
+Calculates the present value of expected future cash flows from an investment.
+
+Payback
+= Payback Period
+Measures how long it takes to recover the initial investment.
+
+Discounted Payback
+= Discounted Payback Period
+Like Payback Period, but considers the time value of money by discounting future cash flows.
+
+PI
+= Profitability Index
+Indicates value created per unit of investment; a PI > 1 suggests a profitable project.
+
+DCF
+= Discounted Cash Flow
+A valuation method based on the present value of future expected cash flows.
+
+IRR
+= Internal Rate of Return
+The discount rate at which a project’s net present value (NPV) equals zero.
+
+Profitability & Financial Performance
+ROE
+= Return on Equity
+Shows how much profit a company generates from shareholders' equity.
+
+ROI
+= Return on Investment
+Measures the gain or loss from an investment relative to its cost.
+
+ROA
+= Return on Assets
+Indicates how effectively a company uses its total assets to generate profit.
+
+ROS
+= Return on Sales
+Reflects the percentage of revenue that turns into operating profit.
+
+ROIC
+= Return on Invested Capital
+Shows the return a company generates on all invested capital (debt + equity).
+
+EPS
+= Earnings Per Share
+Net income allocated to each outstanding share of common stock.
+
+Company Valuation & Market Ratios
+P/E
+= Price to Earnings
+Compares a company's stock price to its earnings per share.
+
+P/BV
+= Price to Book Value
+Measures the market price of a company relative to its book value.
+
+CAGR
+= Compound Annual Growth Rate
+The average annual growth rate of an investment over a period of time.
+
+Corporate Finance & Operations
+EBITDA
+= Earnings Before Interest, Taxes, Depreciation and Amortization
+A measure of operational profitability excluding financing and accounting effects.
+
+FCF
+= Free Cash Flow
+Cash remaining after capital expenditures, available to investors and creditors.
+
+CAPEX
+= Capital Expenditures
+Funds used by a company to acquire or upgrade physical assets.
+
+OPEX
+= Operating Expenses
+Ongoing costs for running the day-to-day operations of a business.
+
+Capital Cost & Valuation Models
+WACC
+= Weighted Average Cost of Capital
+A firm’s average cost of capital from all sources, used as a discount rate.
+
+CAPM
+= Capital Asset Pricing Model
+A model estimating expected return based on risk-free rate and market risk premium.
+
+Risk & Investment Statistics
+Sharpe Ratio
+= Sharpe Ratio
+Measures risk-adjusted return by comparing excess return to volatility.
+
+VaR
+= Value at Risk
+Estimates the maximum expected loss over a set time frame at a given confidence level.
+
+Macroeconomics & Inflation Indicators
+CPI
+= Consumer Price Index
+Tracks changes in prices of consumer goods and services – a key inflation measure.
+
+PPI
+= Producer Price Index
+Measures average changes in prices received by domestic producers – indicates upstream inflation.
+
+Balance of Payments / Trade Balance
+= Balance of Payments / Trade Balance
+Reflects the flow of goods, services, and capital between countries – affects currency value and risk.
